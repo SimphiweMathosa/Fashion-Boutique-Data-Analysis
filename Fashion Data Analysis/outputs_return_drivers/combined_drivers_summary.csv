@@ -1,0 +1,5 @@
+driver_type,drivers
+categorical_cramersv,
+numeric_cohend,
+glm_sig_terms,(Intercept); categoryBottoms; categoryDresses; categoryOuterwear; categoryShoes; brand_topForever21; brand_topMango; brand_topUniqlo; seasonSummer; current_price
+rf_top,original_price; sizeXL; sizeNot Applicable; current_price; categoryBottoms; discount_amount; profit_margin; brand_topZara; brand_topMango; discountedTRUE; brand_topForever21; color_topNavy; markdown_percentage; categoryOuterwear; color_topBlue

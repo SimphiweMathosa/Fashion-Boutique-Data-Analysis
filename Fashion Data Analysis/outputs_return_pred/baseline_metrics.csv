@@ -1,0 +1,3 @@
+Model,ROC_AUC,Accuracy,Precision,Recall,F1
+Baseline_Majority,0.5,0.8528735632183908,NA,0,NA
+Baseline_ConstantProb,0.5,0.8528735632183908,NA,0,NA

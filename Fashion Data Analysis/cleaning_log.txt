@@ -1,0 +1,9 @@
+[2025-08-30 16:18:43.480314] Starting cleaning script.
+[2025-08-30 16:18:45.8306] Raw rows:2176cols:14
+[2025-08-30 16:19:57.739907] Columns after clean_names:product_id, category, brand, season, size, color, original_price, markdown_percentage, current_price, purchase_date, stock_quantity, customer_rating, is_returned, return_reason
+[2025-08-30 16:20:24.101838] Removed exact duplicate rows:0
+[2025-08-30 16:24:42.07532] Price discrepancies flagged:1
+[2025-08-30 16:30:28.963444] NAs in critical cols:
+[2025-08-30 16:31:16.482916] Saved cleaned dataset to:cleaned_fashion_boutique.csvandcleaned_fashion_boutique.rds
+[2025-08-30 16:31:40.414882] Wrote data dictionary template todata_dictionary.csv
+[2025-08-30 16:31:44.269269] Wrote data dictionary template todata_dictionary.csv
